@@ -1,0 +1,8 @@
+Estimates Accuracy:
+Throughout the practical tasks, my accuracy in estimating the time required for completion varied. In the early stages, I often underestimated the complexity of certain tasks. However, as the subject progressed, I gained a better understanding of the time and effort involved. Experience played a crucial role in improving my estimation accuracy. Regularly revisiting and reflecting on past tasks helped me refine my ability to gauge the time needed for different programming challenges.
+
+Code Reviews:
+Participating in both receiving and conducting code reviews has been a valuable learning experience. When my code was reviewed, I gained insights into alternative approaches, improved coding practices, and discovered potential bugs. Providing reviews for peers enhanced my ability to critically analyze code, identify best practices, and communicate constructive feedback. The collaborative nature of code reviews facilitated a shared learning environment, contributing to the overall improvement of code quality within the subject.
+
+Practical Tasks:
+In hindsight, reflecting on the practical tasks prompts considerations for potential improvements in the subject. One possible enhancement could involve incorporating more real-world scenarios and challenges, providing students with a broader perspective on application development. Additionally, a more structured approach to learning resources, aligned with the progression of difficulty in practical tasks, might help students build a more solid foundation before tackling complex coding assignments. Regular and constructive feedback sessions, both on individual tasks and overall progress, could further support student development in the subject.
